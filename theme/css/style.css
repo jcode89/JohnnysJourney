@@ -724,7 +724,9 @@
 
 	#header h1 a
 	{
+		font-weight: 900;
 		font-size: 2.4em;/*Added to control size of the title*/
+		letter-spacing: -0.035em;
 	}
 
 /*********************************************************************************/
